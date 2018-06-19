@@ -1,1 +1,2 @@
-2.2) user can determin which attribute ciphers should be decrypted;
+2.3) user can determin which attribute ciphers should be decrypted and hence the what kind of key used should be clearly defined.
+
