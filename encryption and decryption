@@ -1,2 +1,1 @@
-User side encryption should be added in client side
-uer side decryption should be added in client side as well
+Paillier E(x +y) =E(x) E(y)
