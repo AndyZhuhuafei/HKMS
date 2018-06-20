@@ -1,6 +1,2 @@
-UMS consists of
-1) user key management
-2) data management
-2.1) encryption is added
-2.2) decryption is added
-2.3) Restful API is added
+for design API the micro service should be defined;
+such as framework and containers
