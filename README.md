@@ -1,1 +1,0 @@
-# HKMS for client side 
