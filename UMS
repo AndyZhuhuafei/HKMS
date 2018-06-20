@@ -1,4 +1,4 @@
-UMS is a service, running at the client
-UMS is decomposed into two basic services:
-2.1) user key management service;
-2.2) user data management service.
+
+
+2.3) user data encryption management service.
+2.4) retrievaled cipher decryption management service;
